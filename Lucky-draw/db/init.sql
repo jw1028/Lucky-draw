@@ -173,3 +173,4 @@ insert into record(member_id, award_id) values(13, 3);
 insert into record(member_id, award_id) values(41, 3);
 insert into record(member_id, award_id) values(54, 3);
 insert into record(member_id, award_id) values(85, 3);
+
